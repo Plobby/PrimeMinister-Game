@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment_3
+namespace PMGame
 {
 	/*
      * A class to parse certain files into the program

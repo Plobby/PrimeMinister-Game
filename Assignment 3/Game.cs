@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment_3
+namespace PMGame
 {
 	/*
      * Game class, to hold all the game logic and functionality

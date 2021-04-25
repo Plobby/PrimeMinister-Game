@@ -5,14 +5,8 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-/*
- * Name: Samuel Lewis Taylor
- * Student ID: 16661227
- * Date: 17/11/2018
- */
-
 // Application namespace
-namespace Assignment_3
+namespace PMGame
 {
 	/*
      * Main program class

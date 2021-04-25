@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment_3
+namespace PMGame
 {
 	/*
 	 * Player class, intended to hold the score for the current player
